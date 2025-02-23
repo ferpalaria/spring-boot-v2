@@ -1,4 +1,4 @@
-package br.com.nlw.events.controller.exception;
+package br.com.nlw.events.exception;
 
 public class EventNotFoundException extends RuntimeException{
 
